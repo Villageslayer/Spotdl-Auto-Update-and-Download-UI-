@@ -34,7 +34,7 @@ Settings
 
     Option 1 
     
-        update your playlists and automatically skip the ones that are already downloaded
+        update your playlists and automatically skip the Tracks that are already downloaded
 
     Option 2 and 3 
 
@@ -45,7 +45,8 @@ Settings
         This contains the Download UI run this to download new playlists/albums/songs or entire artist pages
 
 3. Troubleshooting
-
+    
+    Redo the Setup if anything breaks 
 
 4. Limitations 
     
