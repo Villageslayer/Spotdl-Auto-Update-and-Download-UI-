@@ -4,14 +4,8 @@ Spotdl Auto Update and Download UI
 
 Table of Contents 
 
-1 Setup 
-2 Usage 
-3 Troubleshooting
-4 Limitations 
-
-
-
-Setup 
+1. Setup
+    Setup 
 
 First Things 
 
@@ -28,5 +22,12 @@ The Integrated Setup
     The Script has an integrated Setup on First launch select option 2 and you will be granted with a popup to choose the directory that contains your 2 .txt files.
     The chosen Directory will be saved in Dir.txt on your Desktop 
     To change it simply edit the Dir.txt file with the new path or just run the Setup again.
+2. Usage 
+3. Troubleshooting
+4. Limitations 
+
+
+
+
 
 
