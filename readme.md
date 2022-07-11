@@ -29,19 +29,20 @@ Settings
     It is reccomended to use 25 threads max due to the API Rate Limit 
 
 2. Usage 
-On run you will be greeted with the following options
-
-Option 1 
     
-    update your playlists and automatically skip the ones that are already downloaded
+    On run you will be greeted with the following options
 
-Option 2 and 3 
+    Option 1 
+    
+        update your playlists and automatically skip the ones that are already downloaded
 
-    Contain the Setup and the Settings see 1. for info on that
+    Option 2 and 3 
+
+        Contain the Setup and the Settings see 1. for info on that
     
-Option 4 
+    Option 4 
     
-    This contains the Download UI run this to download new playlists/albums/songs or entire artist pages
+        This contains the Download UI run this to download new playlists/albums/songs or entire artist pages
 
 3. Troubleshooting
 
