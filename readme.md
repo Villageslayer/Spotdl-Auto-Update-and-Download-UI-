@@ -9,7 +9,9 @@ Table of Contents
 3. Troubleshooting
 4. Limitations 
 
-1. Setup 
+
+
+Setup 
 
 First Things 
 
