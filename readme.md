@@ -51,6 +51,7 @@ Settings
 4. Limitations 
     
     The only limitation is that this script currently only supports up to 10 Directories
+    This will be fixed in a later Version
 
 
 
