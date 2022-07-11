@@ -30,14 +30,16 @@ Settings
     It is reccomended to use 25 threads max due to the API Rate Limit 
 
 2. Usage 
+    
     Option 1 in the menu will update your playlists and automatically skip the ones that are already downloaded
     Option 2 and 3 is the Setup and the Settings see 1. for info on that
     Option 4 is the Download UI run this to download new playlists/albums/songs or entire artist pages
 
 3. Troubleshooting
-    
+
 
 4. Limitations 
+    
     The only limitation is that this script currently only supports up to 10 Directories
 
 
