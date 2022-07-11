@@ -22,9 +22,9 @@ First Things
     The script works by line numbers so the link in Line in Line 1 of your Links.txt 
     will be downloaded to the Directory located in Line 1 in your dirs.txt.
 
-The Integrated Setup 
-    The Script has an integrated Setup on First launch select option 2 and you will be granted with a popup to choose the directory that contains your 2 .txt files.
-    The chosen Directory will be saved in Dir.txt on your Desktop 
-    To change it simply edit the Dir.txt file with the new path or just run the Setup again.
+    The Integrated Setup 
+        The Script has an integrated Setup on First launch select option 2 and you will be granted with a popup to choose the directory that contains your 2 .txt files.
+        The chosen Directory will be saved in Dir.txt on your Desktop 
+        To change it simply edit the Dir.txt file with the new path or just run the Setup again.
 
 
