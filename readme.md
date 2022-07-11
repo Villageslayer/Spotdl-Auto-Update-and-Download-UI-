@@ -27,7 +27,7 @@ The Integrated Setup
 Settings
 
     Option 3 brings up the settings Menu here you can set the amount of threads to search and download 
-
+    It is reccomended to use 25 threads max due to the API Rate Limit 
 
 2. Usage 
     
