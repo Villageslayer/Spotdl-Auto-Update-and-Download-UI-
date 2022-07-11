@@ -32,10 +32,16 @@ Settings
 On run you will be greeted with the following options
 
 Option 1 
-    update your playlists and automatically skip the ones that are already downloaded
-Option 2 and 3 is the Setup and the Settings see 1. for info on that
     
-    Option 4 is the Download UI run this to download new playlists/albums/songs or entire artist pages
+    update your playlists and automatically skip the ones that are already downloaded
+
+Option 2 and 3 
+
+    Contain the Setup and the Settings see 1. for info on that
+    
+Option 4 
+    
+    This contains the Download UI run this to download new playlists/albums/songs or entire artist pages
 
 3. Troubleshooting
 
