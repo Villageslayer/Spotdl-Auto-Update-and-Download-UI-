@@ -4,10 +4,10 @@ Spotdl Auto Update and Download UI
 
 Table of Contents 
 
-1. Setup 
-2. Usage 
-3. Troubleshooting
-4. Limitations 
+1 Setup 
+2 Usage 
+3 Troubleshooting
+4 Limitations 
 
 
 
