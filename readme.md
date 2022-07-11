@@ -5,7 +5,7 @@ Spotdl Auto Update and Download UI
 Table of Contents 
 
 1. Setup
-    Setup 
+
 
 First Things 
 
